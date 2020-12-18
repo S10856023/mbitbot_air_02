@@ -1,0 +1,22 @@
+{
+    "name": "MbitBot_Air_02",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "MbitBot": "github:icshopmgr/mbitbot#aa9ab6c469ba9755a643c5517ceb1917c0f31731",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
